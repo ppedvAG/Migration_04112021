@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "consolenFun": {
+      "commandName": "Project",
+      "commandLineArgs": "-AAAAAA"
+    }
+  }
+}
