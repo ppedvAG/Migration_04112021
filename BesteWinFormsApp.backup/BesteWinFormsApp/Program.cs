@@ -15,9 +15,6 @@ namespace BesteWinFormsApp
         static void Main()
         {
             Application.EnableVisualStyles();
-#if NETCOREAPP
-            Application.SetHighDpiMode(HighDpiMode.SystemAware);
-#endif
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
